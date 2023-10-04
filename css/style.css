@@ -30,6 +30,9 @@ a:visited{
 
 nav a.current{
     /* Set text decoration, transformation, and underline properties */
+    color: brown;
+    text-decoration: green wavy underline;
+    text-underline-offset: 8px;
 }
 
 
